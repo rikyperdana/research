@@ -1,6 +1,4 @@
-Me: I'm a lecturer at Management Major, Economic and Business Faculty, Universitas Muhammadiyah Riau. I'm thinking of publishing a research paper on international journal exploring the factors in working environment that might cause procrastinative behavior and how it affects organization performances in a company. Can you make the detailed research plan for me?
-
-Gemma: Okay, that's a fantastic and timely research topic!  A paper exploring the link between work environment factors and procrastination, and its impact on organizational performance, is highly relevant and valuable. Here's a detailed research plan, structured for an international journal publication, covering everything from literature review to data analysis and dissemination.  I've included considerations specific to your academic context (lecturer at a university in Indonesia).
+Okay, that's a fantastic and timely research topic!  A paper exploring the link between work environment factors and procrastination, and its impact on organizational performance, is highly relevant and valuable. Here's a detailed research plan, structured for an international journal publication, covering everything from literature review to data analysis and dissemination.  I've included considerations specific to your academic context (lecturer at a university in Indonesia).
 
 
 
