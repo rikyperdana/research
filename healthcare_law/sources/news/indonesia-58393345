@@ -1,0 +1,143 @@
+                              Data eHAC milik 1,3 juta penggunanya dilaporkan bocor, 'keamanan data tidak prioritas'
+
+   e-HAC
+
+   Sumber gambar, ANTARA/Andi Firdaus/pri
+
+   31 Agustus 2021
+
+   Laporan mengenai kebocoran data aplikasi milik pemerintah atau lembaga negara kembali terjadi. Kali ini, aplikasi (Electronic Health Alert
+   Card/eHAC) disebut berimbas pada 1,3 juta penggunanya.
+
+   Pakar keamanan siber sekaligus Ketua dan Pendiri Indonesia Cyber Security Forum (ICSF), Ardi Sutedja, mengatakan peristiwa semacam ini
+   berulang kali terjadi karena "banyak orang masih menganggap keamanan siber itu sesuatu yang tidak penting" serta keamanan data "tidak
+   prioritas".
+
+   "Kebocoran data ini puncak gunung es dari masalah keamanan siber nasional kita," kata Ardi kepada BBC News Indonesia, Selasa (31/08).
+
+   Sejauh ini Kementerian Komunikasi dan Informatika (Kominfo) masih menginvestigasi dugaan kebocoran data pada aplikasi eHAC.
+
+   Sebelumnya, VPN Mentor, situs yang fokus pada keamanan Virtual Private Network (VPN), melaporkan adanya dugaan kebocoran 1,3 juta data
+   pengguna pada eHAC.
+
+   eHAC merupakan aplikasi milik Kementerian Kesehatan yang berguna sebagai alat penelusuran terhadap orang-orang yang datang ke Indonesia di
+   tengah pandemi Covid-19.
+
+   "Sedang kami lakukan investigasi," kata Juru Bicara Kementerian Komunikasi dan Informatika Dedy Permadi saat dihubungi kantor berita Antara,
+   Selasa (31/08).
+
+   Langkah ini sejalan seperti yang dipaparkan oleh Kepala Pusat Data dan Informasi Kementerian Kesehatan RI Anas Ma'ruf dalam konferensi pers
+   terbarunya yang dilakukan untuk menanggapi dugaan kebocoran data dari sistem milik mereka itu.
+
+   Kementerian Kesehatan mengeklaim akan melakukan audit forensik untuk memastikan dugaan kebocoran data seperti yang dipaparkan oleh VPN
+   Mentor dalam penelitian berjudul Indonesian COVID-19 Apps Leaks Private Data From Over 1 million People.
+
+   "Kita lakukan upaya investigasi dan penelusuran serta audit forensik, bekerja sama dengan lembaga terkait," kata Kepala Pusat Data dan
+   Informasi Kementerian Kesehatan RI Anas Ma'ruf, menjelaskan langkah lanjutan terkait dugaan kebocoran data tersebut.
+
+   eHAC
+
+   Sumber gambar, NurPhoto via Getty Images
+
+   Keterangan gambar, Aplikasi eHAC Kementerian Kesehatan di ponsel.
+
+   Kementerian Kesehatan pun menyebutkan data yang diduga mengalami kebocoran itu merupakan aplikasi eHAC yang lama yang tidak lagi digunakan
+   sejak Juli 2021.
+
+   Anas pun meminta agar para pengguna aplikasi eHAC yang lama segera menghapus aplikasi itu dari perangkat gawainya masing- masing agar bisa
+   melakukan pencegahan yang optimal.
+
+   VPN Mentor mengatakan kebocoran data ini berdampak luas terhadap pengguna eHAC dan pemerintah Indonesia.
+
+   "Kebocoran data ini punya implikasi luas untuk eHAC dan usaha pemerintah Indonesia untuk mengendalikan Covid-19. Jika data ini ditemukan
+   oleh peretas kriminal, dampaknya bisa merusak pada individu dan masyarakat," sebut VPN Mentor.
+
+Bagaimana kronologinya?
+
+   Dalam laporan yang dirilis ke khalayak umum, VPN Mentor menyebut pihaknya menemukan data-data eHAC tanpa rintangan pada 15 Juli 2021.
+   Menurut VPN Mentor, pembuat aplikasi menggunakan database Elasticsearch yang tidak dienskripsi dan tidak memiliki tingkat keamanan yang
+   rumit sehingga mudah dan rawan diretas.
+
+   Kemudian mereka menghubungi Kementerian Kesehatan Indonesia pada 21 Juli. Namun, Kemenkes tidak merespons.
+
+   Baca juga:
+
+     * 'Bagaimana saya menjadi korban penyalahgunaan data pribadi'
+     * Setelah serangan siber, pelayanan di RS Dharmais 'melambat'
+
+   VPN Mentor lantas menghubungi Indonesia Computer Emergency Response Team pada 22 Juli serta Google selaku penyedia hosting pada 25 Juli.
+   Kemenkes dihubungi lagi ada 26 Juli, namun tetap tidak ada respons.
+
+   "Hingga awal Agustus, kami belum menerima balasan dari pihak-pihak terkait. Kami mencoba menjangkau beberapa lembaga pemerintah lainnya,
+   salah satunya BSSN (Badan Siber dan Sandi Negara) yang dibentuk guna menjalankan aktivitas-aktivitas di bidang keamanan siber. Kami
+   menghubugi mereka pada 22 Agustus dan mereka membalas pada hari yang sama. Dua hari kemudian, pada 24 Agustus, servernya ditutup," sebut VPN
+   Mentor.
+
+Data apa saja yang disebut bocor?
+
+   Data yang bocor tidak hanya mengungkap data pribadi 1,3 juta pengguna eHAC, menurut VPN Mentor. Kebocoran ini juga mengungkap seluruh
+   infrastruktur seputar eHAC, termasuk catatan pribadi dari berbagai rumah sakit hingga tenaga kesehatan yang menangani pelaku perjalanan.
+
+   "Pemerintah Indonesia memperkenalkan electronic Health Alert Card (eHAC) untuk membantu menangkal penyebaran Covid-19 di negara itu.
+   Aplikasi ini diwajibkan bagi pelku perjalanan yang memasuki Indonesia dari luar negeri, baik WNI maupun warga asing. Juga disyaratkan untuk
+   penerbangan domestik," tulis VPN Mentor pada laporannya.
+
+   eHAC ini diunduh ke ponsel pengguna dan menyimpan status kesehatan terkini serta informasi lain.
+
+   Adapun informasi pengguna yang bocor di eHAC mencakup antara lain:
+
+   Data tes Covid-19
+
+     * Kartu identitas pelaku perjalanan
+     * Identitas rumah sakit
+     * Nomor antrean
+     * Nomor referensi
+     * Alamat
+     * Tipe tes Covid (PCR, rapid antigen, lainnya), tanggal dan lokasi
+     * Hasil tes Covid dan tanggal dikeluarkan
+     * Identitas dokumen eHAC
+
+   Kebocoran juga mencakup data dari 226 rumah sakit dan klinik di Indonesia:
+
+     * Rincian rumah sakit (nama, nomor lisensi, lokasi pasti dilengkapi koordinat, nomor WhatsApp, jam operasional).
+     * Nama penanggung jawab bagi pelaku perjalanan
+     * Nama dokter yang menangani sang pelaku perjalanan
+     * Daya tampung rumah sakit
+     * Jenis tes yang dilakukan rumah sakit tersebut
+     * Jumlah tes yang dilakukan setiap hari
+     * Jenis pelaku perjalanan yang ditangani rumah sakit tersebut
+
+   Identitas pengguna pun bocor, antara lain:
+
+     * Detil pelaku perjalanan (nomor paspor/KTP, nama lengkap, nomor telepon, pekerjaan, jenis kelamin, dan lainnya)
+     * Paspor dan foto profil di akun eHAC
+     * Detil hotel pelaku perjalanan
+     * Detil tentang akun eHAC perjalanan dan kapan dibuat
+
+Mengapa hal ini berulang kali terjadi?
+
+   Pada Mei 2021, data sekitar 279 juta warga Indonesia - termasuk mereka yang sudah meninggal dunia - diduga diretas dan dijual di forum
+   daring. Data itu diduga berasal dari badan penyelenggara layanan kesehatan, BPJS Kesehatan.
+
+   Lantas pada Mei tahun lalu, data kependudukan milik sekitar 2,3 juta warga Indonesia yang memuat nomor induk kependudukan (NIK) serta nama
+   dan alamat lengkap, diduga bocor dan dibagikan lewat forum komunitas hacker. Data itu diduga bersumber dari Komisi Pemilihan Umum (KPU).
+
+   Pada 2019, situs jual beli online Bukalapak mengaku telah mendapat serangan dari peretas yang menyebabkan data pribadi 13 juta akun
+   penggunanya bocor.
+
+   Pakar keamanan siber sekaligus Ketua dan Pendiri Indonesia Cyber Security Forum (ICSF), Ardi Sutedja, mengatakan bahwa rangkaian peristiwa
+   itu menunjukkan bahwa "masih banyak dari kita yang tidak belajar dari pengalaman".
+
+   "Kebocoran data ini puncak gunung es dari masalah keamanan siber nasional kita. Jadi kita masih banyak belajar," kata Ardi.
+
+   "Kalau keamanan siber tidak menjadi prioritas, tentunya yang namanya keamanan data juga akan menjadi tidak prioritas."
+
+   Ardi juga menilai kementerian-kementerian serta lembaga-lembaga negara masih menggunakan infrastruktur kritis pengolahan data memakai sistem
+   dan tekonologi yang lama.
+
+   "Karena kalau mau mengolah data secara optimal dengan fitur-fitur keamanan yang optimal ya tentu mereka harus investasi. Mereka harus
+   pengadaan yang tentunya tidak murah, itu baru dari sisi teknologinya.
+
+   "Belum lagi dari sisi SDM nya. Berapa orang di kementerian kesehatan, atau siapapun yang mengembangkan app itu mengerti tentang security?
+   Jadi ada dua faktor, satu masalah teknologi yang sudah lewat waktu, kedua masalah SDM."
+
