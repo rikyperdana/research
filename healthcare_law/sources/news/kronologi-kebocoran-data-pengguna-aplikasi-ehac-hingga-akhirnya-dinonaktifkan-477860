@@ -1,0 +1,73 @@
+                                  Kronologi Kebocoran Data Pengguna Aplikasi eHAC hingga Akhirnya Dinonaktifkan
+
+   vpnMentor melaporkan adanya kebocoran data pada aplikasi eHAC. Berikut kronologinya hingga Kemenkes menonaktifkan aplikasi tersebut.
+
+   3 September 2021 | 13.22 WIB
+
+   Dengarkan artikel
+
+   Bagikan
+
+   Gabung Tempo Circle
+
+   Kemenkes memastikan data masyarakat di sistem elektronik e-HAC tidak mengalami kebocoran dan berada dalam perlindungan.
+   Perbesar
+   Kemenkes memastikan data masyarakat di sistem elektronik e-HAC tidak mengalami kebocoran dan berada dalam perlindungan.
+
+   TEMPO.CO, Jakarta - Tim Peneliti vpnMentor yang dipimpin Noam Rotem dan Ran Locar melaporkan adanya dugaan pelanggaran data dalam program
+   eHAC atau electronic Health Alert Card yang dibuat pemerintah untuk mengatasi penyebaran Covid-19. Laporan tersebut dimuat laman resmi
+   mereka di vpnMentor.com pada Senin, 30 Agustus 2021.
+
+   eHAC merupakan aplikasi ‘test and trace’ yang diperuntukkan orang-orang yang masuk ke Indonesia guna memastikan mereka tidak membawa virus
+   ke dalam negeri. Aplikasi ini diperkenalkan pada awal 2021 Kementerian Kesehatan atau Kemenkes Republik Indonesia. “Namun, pengembang
+   aplikasi gagal menerapkan protokol privasi data yang memadai dan membiarkan data lebih dari 1 juta orang terpapar di server terbuka,” tulis
+   pihak vpnMentor.
+
+   Scroll ke bawah untuk melanjutkan membaca
+
+   Iklan
+
+   Logo
+
+   Padahal aplikasi digunakan sebagai syarat wajib bagi setiap pendatang dari luar negeri yang masuk ke Indonesia baik warga negara Indonesia
+   maupun orang asing, dan juga dibutuhkan untuk penerbangan domestik. Aplikasi ini dapat menyimpan status kesehatan terkini pengguna, data
+   Personally Identifiable Information (PII), detail kontak, hasil tes Covid-19, dan masih banyak lagi.
+
+   BACA JUGA
+   Cara Mengisi eHAC di Aplikasi PeduliLindungi sebagai Syarat Perjalanan
+   Cara Mengisi eHAC di Aplikasi PeduliLindungi sebagai Syarat Perjalanan
+
+   vpnMentor melaporkan, setidaknya dugaan kebocoran data ini telah terdeteksi sejak pertengahan Juli 2021. Perusahaan keamanan siber ini
+   lantas menghubungi Kemenkes RI pada 21 Juli 2021 dan tidak mendapat respons. vpnMentor kemudian memberitahu CERT Indonesia pada 22 Juli
+   2021, vpnMentor juga menghubungi ID SIRTI atau Indonesia Security Incident Response Team on Internet Infrastructure pada 16 Agustus 2021.
+
+   vpnMentor masih berusaha memberi tahu Kemenkes dan kembali menghubungi mereka pada 26 Juli 2021, sehari setelah melaporkan kepada Google
+   sebagai penyedia hosting pada 25 Juli 2021. Tak juga mendapat respons dari Kemenkes, vpnMentor akhirnya menghubungi Badan Siber dan Sandi
+   Negara pada 22 Agustus 2021, dan mendapat tanggapan dari BSSN di hari tersebut, serta ditindaklanjuti pada 24 Agustus 2021.
+
+   “Memahami pelanggaran dan potensi dampaknya membutuhkan perhatian dan waktu yang cermat. Kami bekerja keras untuk menerbitkan laporan yang
+   akurat dan dapat dipercaya, memastikan semua orang yang membacanya memahami keseriusan (masalah) mereka,” tulis pihak vpnMentor.
+
+   Tim peneliti vpnMentor menemukan catatan eHAC tanpa perlindungan karena kurangnya protokol yang diterapkan oleh pengembang aplikasi. Setelah
+   mereka menyelidiki database dan memastikan bahwa catatan tersebut asli, vpnMentor menghubungi Kemenkes dan mempresentasikan temuannya.
+   “Setelah beberapa hari tanpa jawaban dari kementerian, kami menghubungi agensi CERT Indonesia dan, akhirnya, (kami menghubungi) Google
+   penyedia hosting eHAC,” ungkap pihak vpnMentor.
+
+   Meski telah dihubungi sebanyak dua kali, hingga awal Agustus, vpnMentor belum juga menerima respons dari Kemenkes. Menanggapi masalah serius
+   ini, vpnMentor kemudian berupaya menjangkau instansi pemerintahan lainnya seperti BSSN. “Kami menghubungi mereka pada tanggal 22 Agustus dan
+   mereka menjawab pada hari yang sama. Dua hari kemudian, pada 24 Agustus, server dimatikan,” tulis pihak vpnMentor.
+
+   Sementara itu, Kepala Pusat Data dan Informasi Kementerian Kesehatan Anas Mas’ruf kemudian mengimbau masyarakat untuk menghapus aplikasi
+   eHAC yang lama, dan mengunduh aplikasi PeduliLindungi. “Pemerintah meminta masyarakat untuk menghapus, menghilangkan atau uninstall eHAC
+   yang lama,” kata Anas dalam konferensi pers, Selasa, 31 Agustus 2021.
+
+   Anas menyampaikan bahwa aplikasi eHAC yang lama, kini telah dinonaktifkan sehubungan adanya dugaan kebocoran data tersebut. Pemerintah saat
+   ini tengah melakukan audit forensik untuk memastikan ada atau tidak kebocoran data pengguna eHAC. Aplikasi eHAC yang lama memang sudah tidak
+   digunakan sejak 2 Juli 2021, namun baru dinonaktifkan pada 24 Agustus 2021 lalu. Kebijakan tersebut sesuai dengan surat edaran dari Menteri
+   Kesehatan nomor HK.02.01.Menkes/847/2021 tentang digitalisasi dokumen kesehatan bagi pengguna transportasi udara yang terintegrasi dengan
+   PeduliLindungi.
+
+   HENDRIK KHOIRUL MUHID
+
+   Baca juga: Aplikasi eHAC Alami Kebocoran Data, Apa Saja yang Dibocorkan?
+
