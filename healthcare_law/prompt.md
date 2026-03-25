@@ -8,4 +8,5 @@
 # ollama run gemma3n:L "I'm writing a research paper for publication in law journal. I've prepared the table of contents along with collected relevant information from recent news. Please write the introduction chapter and sub-chapters as comprehensive as you can following the guidance in the table of contents, ended with the research questions. Paragraphs format are more preferable, tables are optional. I expect to have 5 to 6 pages for this chapter. Feel free to cite any or all of the collected recent information relevant to the research in APA format." < toc.md < ./sources/news/summary.md >> introduction.md
 
 # Collecting references
-ollama run gemma3n:L "I'd like to start collecting citations from google scholar for relevant articles in the literature review chapter. Can you build me the search query which can yield relevant results?" < toc.md >> search_scholar.md
+# ollama run gemma3n:L "I'd like to start collecting citations from google scholar for relevant articles in the literature review chapter. Can you build me the search query which can yield relevant results?" < toc.md >> search_scholar.md
+ollama run gemma3n:L "I'm afraid that these research queries may only show results in english only. I'd like to have additinal counterparts for indonesian sources." < search_scholar.md >> search_scholar.md

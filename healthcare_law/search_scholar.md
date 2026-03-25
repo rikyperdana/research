@@ -52,3 +52,71 @@ I can then refine these queries to be even more targeted.  Good luck!
 
 
 
+You are absolutely right to point that out! The provided queries are heavily English-centric. To get relevant Indonesian sources, we need to incorporate Indonesian keywords and potentially use Indonesian terms for concepts like "healthcare data interoperability" and "privacy."
+
+Here's an expanded set of search queries, including Indonesian equivalents and strategies to find Indonesian research, categorized as before. I've also added notes on how to adapt the queries for Indonesian searches.
+
+**I. Broad Searches (Good for Initial Exploration - with Indonesian Adaptations):**
+
+*   `"interoperabilitas data kesehatan" AND "privasi data" AND "keamanan data"` (Indonesian for "healthcare data interoperability" AND "data privacy" AND "data security") - *This is a crucial starting point for Indonesian sources.*
+*   `"rekam medis elektronik" AND "interoperabilitas" AND "tantangan privasi"` (Indonesian for "electronic health records" AND "interoperability" AND "privacy challenges")
+*   `"pertukaran informasi kesehatan" AND "risiko keamanan" AND "pelanggaran data"` (Indonesian for "health information exchange" AND "security risks" AND "data breaches")
+*   `"perlindungan data" AND "kesehatan" AND "peraturan interoperabilitas"` (Indonesian for "data protection" AND "health" AND "interoperability regulations")
+
+**II. More Specific Searches (For Deeper Dive - with Indonesian Adaptations):**
+
+*   `"interoperabilitas data kesehatan" AND "kerangka hukum" AND "Indonesia"` (Indonesian for "healthcare data interoperability" AND "legal framework" AND "Indonesia") - *This is vital for your thesis!*
+*   `"privasi pasien" AND "rekam medis elektronik" AND "interoperabilitas" AND "implikasi hukum"` (Indonesian for "patient privacy" AND "electronic health records" AND "interoperability" AND "legal implications")
+*   `"berbagi data" AND "kesehatan" AND "privasi" AND "keamanan" AND "tantangan"` (Indonesian for "data sharing" AND "health" AND "privacy" AND "security" AND "challenges")
+*   `"peraturan interoperabilitas" AND "standar keamanan data" AND "kesehatan"` (Indonesian for "interoperability regulations" AND "data security standards" AND "health")
+*   `"minimisasi data" AND "kesehatan" AND "interoperabilitas"` (Indonesian for "data minimization" AND "health" AND "interoperability")
+*   `"akuntabilitas" AND "interoperabilitas data kesehatan" AND "tanggung jawab hukum"` (Indonesian for "accountability" AND "healthcare data interoperability" AND "legal responsibility")
+*   `"privasi oleh desain" AND "rekam medis elektronik" AND "interoperabilitas"` (Indonesian for "privacy by design" AND "electronic health records" AND "interoperability")
+
+**III. Searches Focusing on International Frameworks (Important for Context - with Indonesian Adaptations):**
+
+*   `"GDPR" AND "interoperabilitas data kesehatan"` (Indonesian for "GDPR" AND "healthcare data interoperability")
+*   `"HIPAA" AND "interoperabilitas data kesehatan"` (Indonesian for "HIPAA" AND "healthcare data interoperability")
+*   `"prinsip perlindungan data" AND "kesehatan" AND "standar internasional"` (Indonesian for "data protection principles" AND "health" AND "international standards")
+
+**IV. Searches Targeting Specific Issues (For Focused Research - with Indonesian Adaptations):**
+
+*   `"pelanggaran data" AND "kesehatan" AND "interoperabilitas"` (Indonesian for "data breach" AND "health" AND "interoperability")
+*   `"akses tidak sah" AND "rekam medis elektronik" AND "interoperabilitas"` (Indonesian for "unauthorized access" AND "electronic health records" AND "interoperability")
+*   `"profiling data" AND "kesehatan" AND "interoperabilitas"` (Indonesian for "data profiling" AND "health" AND "interoperabilitas")
+
+**Tips for Refining Searches (with Indonesian Considerations):**
+
+*   **Use Quotation Marks:**  Still essential for exact phrase searches.
+*   **Boolean Operators:** `AND`, `OR`, `NOT` work the same.
+*   **`site:` Operator:**  This is *extremely* important for finding Indonesian sources.  Try searching within Indonesian government websites, academic databases, and news sites.  Examples:
+    *   `site:kemendikbud.go.id "interoperabilitas data kesehatan"` (Indonesian Ministry of Education and Culture website)
+    *   `site:unreibun.ac.id "interoperabilitas data kesehatan"` (Universitas Republik Indonesia - a major university)
+*   **`filetype:` Operator:**  Use `filetype:pdf` to find PDF documents, which are common for academic papers.
+*   **Date Filters:**  Crucial for getting current information.
+*   **"Cited By":**  As before, a great way to find related research.
+*   **Keyword Analysis:**  Examine the keywords used in Indonesian articles you find to identify additional search terms.
+*   **Translation:**  Use Google Translate (or another translation tool) to translate Indonesian articles you find into English for easier reading.  This is a necessary step.
+
+**Where to Look for Indonesian Sources:**
+
+*   **Google Scholar (with `site:` operator):**  As shown above, use the `site:` operator to limit your search to Indonesian websites.
+*   **Garba Rujukan Digital (GRD):**  This is a comprehensive Indonesian digital library.  [https://www.grd.go.id/](https://www.grd.go.id/)
+*   **Perpustakaan Nasional Republik Indonesia (National Library of Indonesia):** [https://www.perpusnas.go.id/](https://www.perpusnas.go.id/)
+*   **Universitas (Universities):**  Check the websites of major Indonesian universities (e.g., Universitas Indonesia, Universitas Gadjah Mada, Institut Teknologi Bandung).  They often have online repositories of research papers.
+*   **Indonesian Government Websites:**  Look for websites of ministries related to health, technology, and law.
+
+**To help me tailor the queries even more effectively, please tell me:**
+
+*   **Are there any specific Indonesian institutions or organizations you want to focus on?** (e.g., specific universities, government agencies)
+*   **Are you interested in specific Indonesian laws or regulations related to healthcare data?** (e.g., the Law on Health, regulations on data protection)
+*   **What is the primary Indonesian term you've encountered for "healthcare data interoperability" or related concepts?**  Knowing this will help me refine the queries.
+
+
+
+I'm confident that by combining these strategies, you can find a wealth of relevant Indonesian research for your literature review.  Let me know if you'd like me to refine any of these queries further!
+
+
+
+
+
